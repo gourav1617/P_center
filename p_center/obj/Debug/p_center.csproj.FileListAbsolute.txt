@@ -1,0 +1,5 @@
+c:\users\gourav\documents\visual studio 2010\Projects\p_center\p_center\bin\p_center.dll
+c:\users\gourav\documents\visual studio 2010\Projects\p_center\p_center\bin\p_center.pdb
+c:\users\gourav\documents\visual studio 2010\Projects\p_center\p_center\obj\Debug\p_center.dll
+c:\users\gourav\documents\visual studio 2010\Projects\p_center\p_center\obj\Debug\p_center.pdb
+C:\Users\GOURAV\Documents\visual studio 2010\Projects\p_center\p_center\obj\Debug\p_center.csprojResolveAssemblyReference.cache
